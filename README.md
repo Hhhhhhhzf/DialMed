@@ -44,7 +44,10 @@ DialMed
 │   └── model.py
 └── data
     └── dataset
-        └── dataset_example.txt
+        ├── dataset_example.txt
+        ├── train.txt
+        ├── test.txt
+        └── dev.txt
 ```
 
 
