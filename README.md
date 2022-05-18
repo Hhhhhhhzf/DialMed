@@ -44,7 +44,7 @@ DialMed
 │   └── model.py
 └── data
     └── dataset
-        ├── dataset_example.txt
+        ├── label.json
         ├── train.txt
         ├── test.txt
         └── dev.txt
@@ -54,6 +54,5 @@ DialMed
 
 **Notes**
 
-The code is the part of the original version.
-And core code will be made public if the paper is accepted.
+The source code is the part of the original version, and core code will be made public if the paper is accepted.
 
