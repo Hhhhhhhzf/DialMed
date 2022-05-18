@@ -54,6 +54,6 @@ DialMed
 
 **Notes**
 
-The code and data are the part of the original version.
-And core code and all data will be made public if the paper is accepted.
+The code is the part of the original version.
+And core code will be made public if the paper is accepted.
 
